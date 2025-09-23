@@ -1,16 +1,23 @@
-## Hi there 👋
+# Amir Sarani 🚀
+**Junior Frontend Developer | UI/UX Enthusiast**
 
-<!--
-**AmirSarani/AmirSarani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Amir Sarani, a **Junior Frontend Developer** passionate about building **modern and responsive user interfaces**.  
+I started my journey with project-based learning, moving from small projects to creating real-world, practical UI experiences.
 
-Here are some ideas to get you started:
+My focus is on crafting **engaging and user-friendly experiences** while following clean coding practices and design best standards. I’m always seeking **new challenges, continuous learning, and skill improvement**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 I love combining **creativity with code** to build products that are both beautiful and highly functional.  
+If you're looking for someone who can **blend UI/UX design with professional coding**, I’d be excited to collaborate on your projects.
+
+---
+
+## 🛠 Skills
+HTML | CSS | JavaScript | React | Tailwind CSS | Responsive Design | Clean Code | UI/UX Design
+
+---
+
+📫 **Let's Connect**
+- Portfolio: [Website]( Coming soon... )  
+- LinkedIn: [Amir Sarani](https://www.linkedin.com/in/amir-sarani-6497a5322/)  
+- GitHub: [AmirSarani](https://github.com/AmirSarani)  
+- Email: amirsarani996@gmail.com
