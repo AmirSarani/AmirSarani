@@ -12,7 +12,7 @@ If you're looking for someone who can **blend UI/UX design with professional cod
 ---
 
 ## 🛠 Skills
-HTML | CSS | JavaScript | React | Tailwind CSS | Responsive Design | Clean Code
+HTML | CSS | JavaScript | TypeScript | React | Next Js |  Tailwind CSS | Responsive Design | Clean Code
 
 ---
 
