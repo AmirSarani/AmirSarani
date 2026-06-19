@@ -1,5 +1,5 @@
 # Amir Sarani 🚀
-**Junior Frontend Developer | UI/UX Enthusiast**
+**Frontend Developer | UI/UX Enthusiast**
 
 Hi! I'm Amir Sarani, a **Junior Frontend Developer** passionate about building **modern and responsive user interfaces**.  
 I started my journey with project-based learning, moving from small projects to creating real-world, practical UI experiences.
